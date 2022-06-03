@@ -6,9 +6,15 @@ INSTALL ECLIPSE TOOLS 🔥
 
 
 rm -rf ECLIPSE
-git clone https://github.comyoung1112/ECLIPSE.git
+
+git clone https://github.com/young1112/ECLIPSE.git
+
 cd ECLIPSE
+
 python run.py
+
+
+
 
 
 
